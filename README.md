@@ -10,4 +10,4 @@ Os meus cursos são:
 
 [Kotlin na programação de Apps para iniciantes](https://cursa.app/pt/meu-certificado/certecd150d77ca36af4d111303813cf148e)
 
-[Programação para dispositivos móveis]()
+[Programação para dispositivos móveis](https://cursa.app/pt/meu-certificado/cert004769de9818cfffe0bdb2b67be4ad6a)
